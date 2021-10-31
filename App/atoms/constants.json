@@ -1,0 +1,11 @@
+{
+    "a":"a",
+    "continue":"CONTINUE",
+    "success":"SUCCESS !",
+    "selectWifi":"Please Select which WiFi you want to use",
+    "wifiList":" We have found these available WiFi connections",
+    "successMsg":"CareAlert has successfully conected to your Wifi network",
+    "connectOtherDevice":"Continue to finish installing the rest of the devices",
+    "wifi":"Wifi",
+    "enterPass":" Enter the password for "
+}
